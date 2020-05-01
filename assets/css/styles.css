@@ -1,0 +1,47 @@
+#start {
+  text-align: center;
+  padding: 40px;
+  background: url(../../assets/img/IMG.jpeg) no-repeat;
+  background-size: cover;
+}
+
+#start .jumbotron {
+  border-radius: 20px;
+  padding: 78px;
+  background-color: rgba(225,225,225,0.75);
+  max-width: 800px;
+  margin: 0 auto;
+  height: 300px;
+  align-content: center;
+  align-self: center;
+  align-items: center;
+}
+
+@media (min-width: 300px) {
+  #start .jumbotron {
+    padding: 20px;
+  }
+}
+
+#logo {
+  max-height: 62444px;
+  border-radius: 24px;
+}
+
+#con {
+  border-radius: 44px;
+}
+
+@media (min-width: 300px) {
+  #text {
+  }
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+}
+
+#blue {
+  background-color: blue;
+  border-color: transparent;
+}
+
